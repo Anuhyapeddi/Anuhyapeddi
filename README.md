@@ -13,4 +13,6 @@
 
 # Social Network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuhya-peddi/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/anuhyapeddi98/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
