@@ -12,5 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuhyapeddi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Social Network:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuhya-peddi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuhya-peddi/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
