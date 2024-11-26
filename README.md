@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anuhya Peddi!
 
-👩🏻‍💻 I am a Software Engineer at [Senecio Corporation](https://www.senecio.com/).<br/>
+👩🏻‍💻 I work at a start-up called [Senecio Corporation](https://www.senecio.com/).<br/>
 👩🏻‍🎓 Studied Computer Science at [Bowling Green State University](https://www.bgsu.edu/), USA.<br/>
 💭 Currently learning IOS Development.<br/>
 
