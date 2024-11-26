@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I work at a start-up called [Senecio Corporation](https://www.senecio.com/).<br/>
 👩🏻‍🎓 Studied Computer Science at [Bowling Green State University](https://www.bgsu.edu/), Bowling Green, Ohio, USA.<br/>
-💭 Currently learning IOS Development.<br/>
+💭 My hobbies are playing badminton and developing IOS mobile apps(still in a learning curve).<br/>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
