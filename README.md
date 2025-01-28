@@ -1,3 +1,2 @@
-# 👋 Hi, I'm Anuhya Peddi!
-
+# 👋 Hi, I'm Anu
 
