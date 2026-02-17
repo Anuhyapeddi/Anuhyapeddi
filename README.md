@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anu
 
-- I currently work at senecio corporation as a Software Engineer
-- Graduated from Bowling Green State University
+- I am software engineer, I work at walmart marketplace API team.
+- Graduated from Bowling Green State University.
 
 
